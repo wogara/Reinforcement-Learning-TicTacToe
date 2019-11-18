@@ -1,2 +1,2 @@
 # Reinforcement-Learning-TicTacToe
-This a some code I implemented to teach an algorithm how to never lose at tictactoe
+This a some code I implemented to teach an algorithm how to play tic tac toe
